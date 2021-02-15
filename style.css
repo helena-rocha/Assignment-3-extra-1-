@@ -1,0 +1,49 @@
+.background {
+  background-color: plum
+}
+
+.title-2 {
+  border: 3px solid indigo;
+  text-align: center;
+  margin: auto;
+  width: 50%;
+  padding: 10px;
+}
+
+.images-section {
+  border: 3px solid indigo;
+  text-align: center;
+  margin: auto;
+  width: 50%;
+  padding: 10px;
+}
+
+.picture-1 {
+  width: 100px;
+  height: 100px;
+}
+
+.picture-2 {
+  width: 100px;
+  height: 100px;
+}
+
+.picture-3 {
+  width: 100px;
+  height: 100px;
+}
+
+.picture-4 {
+  width: 100px;
+  height: 100px;
+}
+
+.picture-5 {
+  width: 100px;
+  height: 100px;
+}
+
+.picture-6 {
+  width: 100px;
+  height: 100px;
+}
